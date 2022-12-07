@@ -3,7 +3,7 @@ Issue in Centos 7 &amp; RHEL 7
 "Issue: while using yum to update or install any pavkage I come across error, and i resolved the error as below, plesae have a look on the issues and verify all at your end take necessary action.
 
 Issue : on Centos 7
-[root@localhost ~]# yum update -y[enter image description here][1]
+[root@localhost ~]# yum update -y
 Loaded plugins: fastestmirror
 
 
